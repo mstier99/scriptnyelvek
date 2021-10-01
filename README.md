@@ -1,0 +1,2 @@
+# scriptnyelvek
+python
